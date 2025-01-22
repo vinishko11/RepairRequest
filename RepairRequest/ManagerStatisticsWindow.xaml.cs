@@ -73,7 +73,7 @@ namespace RepairRequest
 
             CompletedRequestsCountTextBlock.Text = completedRequestsCount.ToString();
         }
-
+// ну и хуйня
         private void LoadAverageCompletionTime()
         {
             double averageCompletionTime;
