@@ -55,7 +55,9 @@ namespace RepairRequest
                 {
                     data.Add(reader["requestStatus"].ToString(), (int)reader["Count"]);
                 }
-            }
+            }ya zaebalas'
+
+
 
             RequestsByStatusListView.ItemsSource = data;
         }
